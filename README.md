@@ -8,7 +8,7 @@ https://github.com/becodeorg/Swartz-promo-3/blob/master/Parcours/01-La-prairie/h
 
 ## Qui ? 
 
-Nous sommes ~~les serial giteurs~~ 
+Nous sommes *les serial giteurs*
 
 Notre team est composée de :
 
