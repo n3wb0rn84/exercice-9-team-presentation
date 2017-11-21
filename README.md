@@ -27,4 +27,4 @@ On se présente en travaillant tous sur la même page html.
 
 ## Pourquoi ?
 
-Le but est de se familiariser avec l'utilisation de Git. 
+Le but est de se familiariser avec l'utilisation de Git et s'exercer avec du html et CSS. 
