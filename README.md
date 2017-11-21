@@ -12,10 +12,10 @@ Nous sommes *les serial giters*
 
 Notre team est composée de :
 
-* Olivier Courbe (le capitaine)
-* Manu Barcelona
-* Guillaume de Wolf
-* Nicolas Jamar
+1. Olivier Courbe (le capitaine)
+2. Manu Barcelona Guillaume de Wolf
+3. Nicolas Jamar
+4. Manu Barcelona 
 
 ## Quand ?
 
