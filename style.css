@@ -1,0 +1,61 @@
+body {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+header {
+  width: 50%;
+  height:auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1{
+
+}
+
+img{
+  width: 250px;
+  height: auto;
+
+}
+
+ul{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 100%;
+  height: 20px;
+  list-style-type: none;
+
+}
+.contenutxt {
+  width: 50%;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.social{
+  width: 25%%;
+  height:auto;
+  justify-content: space-between;
+  margin: auto;
+
+}
+
+li{
+
+}
+
+section {
+  display: flex;
+  flex-direction: right: ;
+}
+
+#gdw, #mb{
+  display: flex;
+  flex-direction: row-reverse;
+}
