@@ -1,0 +1,135 @@
+body {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #e6e6e6;
+  text-align : justify;
+}
+
+ul{
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+}
+
+
+/* HEADER */
+
+header {
+  width: 50%;
+  height:auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1{
+  margin-bottom: 0;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+header img{
+  width: 500px;
+  height: auto;
+}
+
+header ul{
+  justify-content: space-around;
+  width: 100%;
+  height: 20px;
+}
+
+
+/* PRESENTATION : PERSONNE */
+  
+  /*1) la div générale*/
+
+section {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  border: 2px solid;
+  margin-top: 10px;
+}
+
+#gdw, #mb{
+  flex-direction: row-reverse;
+}
+
+#oc{
+  background-color: #e9d758;
+}
+#gdw{
+  background-color: #297373;
+}
+#nj{
+  background-color: #ff8552;
+}
+#mb{
+  background-color: #afa060;
+}
+
+  /*2) les photos*/
+
+figure{
+  width: 15%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+}
+
+figure img{
+  height: 150px;
+  width: 150px;
+  -webkit-clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+  clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+
+}
+
+  /*3) le texte */
+
+.contenutxt {
+  width: 70%;
+  margin: 10px 15px;
+  
+}
+
+  /*4) les listes réseaux sociaux */
+
+.social{
+  width: 15%;
+  height:auto;
+  justify-content: center;
+  margin: auto;
+}
+
+.social ul{
+  padding-left: 0;
+  justify-content: center;
+}
+
+.social li{
+  margin: 0 10px;
+}
+
+
+/* FOOTER */
+
+footer > img{
+  width: 100%;
+}
+
+/* BONUS : EFFETS */
+
+
+
+li:first-of-type + li:hover{
+  font-weight: bold;
+  color : #e9d758 ;
+}
